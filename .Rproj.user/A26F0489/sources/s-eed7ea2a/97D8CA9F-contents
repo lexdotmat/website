@@ -1,0 +1,21 @@
+# Section title
+title = "Work"
+
+[[projects]]
+    name = "Red Wine EDA"
+    folder = "Red_wine_md"
+[[projects]]
+    name = "DATA Vizualization with Tableau"
+    folder = "Tableau_Story"
+[[projects]]
+    name = "Tableau and R Comparison"
+    folder = "Tableau_R"
+    
+[[projects]]
+    name = "Red Wine EDA"
+    folder = "Red_wine_md"
+    
+[[projects]]
+    name = "OpenStreeMap Data Wrangling"
+    folder = "OSMData"
+

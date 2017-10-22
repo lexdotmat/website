@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on M Letellier</title>
+    <link>/work/</link>
+    <description>Recent content in Works on M Letellier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/work/red_wine_md/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/red_wine_md/</guid>
+      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/red_wine_md/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/red_wine_md/</guid>
+      <description>Project Introdution Part of the DAND project, the EDA project lead the student to analyse one of the following dataset: * White Wine quality dataset * Red Wine quality dataset * Financial contribution to Presidential campaing by states * Loan Data from prosper * Student dataset
+Further work Sharing this analysis with wine expert or chemists would be of great help to further understand the relationship between the data. Ethanol / Alcohol is for example lighter than water and does impact density, now, to which extent impact the other variable to the density?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/proj-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/proj-1/</guid>
+      <description>TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.</description>
+    </item>
+    
+  </channel>
+</rss>
