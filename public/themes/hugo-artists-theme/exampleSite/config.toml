@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "M Letellier"
+title = "Hugo Artists Theme"
 theme = "hugo-artists-theme"
 
 [params]
@@ -11,7 +11,7 @@ theme = "hugo-artists-theme"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Maxime"
+	name = "Your name"
 	description = "Your description"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
@@ -25,7 +25,7 @@ theme = "hugo-artists-theme"
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-	#email = "Maxime.letellier@gmail.com"
+	email = "your@email.com"
 
 
 	# Header an navigation
@@ -34,8 +34,8 @@ theme = "hugo-artists-theme"
 	# Do the same with the logo ('logo.svg').
 	# But keep the original filename!
 	[params.header]
-		title = "Maxime Letellier"
-		shortBio = "Analyst // Thinker // Data-Driven"
+		title = "Artists Theme"
+		shortBio = "Thinker // Designer // YouTuber"
 
 
 	# About section
@@ -43,14 +43,14 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "**Maxime specializes in making digital things** for human people. Most of the things he makes are data related, Analyses, Vizualization and Stories but he also puts effort into continuously Learning and making codes happen."
+		bio = "**Travis specializes in making things** for human people. Most of the things he makes are [digital interfaces](//travisneilson.com/), but he also puts effort into crafting [next-level beats](//soundcloud.com/travis-neilson) and [YouTube videos](//youtube.com/user/devtipsfordesigners) about making codes happen."
 
 		[[params.about.skills]]
-			name = "Analyst"
+			name = "Communication"
 			value = 9
 
 		[[params.about.skills]]
-			name = "Project Management"
+			name = "Organization"
 			value = 7
 
 		[[params.about.skills]]
@@ -58,26 +58,26 @@ theme = "hugo-artists-theme"
 			value = 10
 
 		[[params.about.skills]]
-			name = "Business Analysis"
-			value = 9
+			name = "Teaching"
+			value = 6
 
 		[[params.about.skills]]
 			name = "Planning"
-			value = 8
+			value = 7
 
 		[[params.about.skills]]
 			name = "Visual Design"
-			value = 7
+			value = 5
 
 		[[params.about.skills]]
-			name = "Python Programming"
-			value = 4
+			name = "UX Design"
+			value = 8
 
 		[[params.about.skills]]
-			name = "R Programming"
-			value = 7
+			name = "Programming"
+			value = 6
 
-	# Contact section
+	# Contact secion
 	[params.contact]
 		title = "Contact"
 
@@ -86,15 +86,27 @@ theme = "hugo-artists-theme"
 		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 		[[params.contact.social]]
 			icon = "twitter"
-			link = "http://twitter.com/Max_Letellier"
+			link = "//twitter.com/devtipsshow"
+
+		[[params.contact.social]]
+			icon = "dribbble"
+			link = "//dribbble.com/travisneilson"
+
+		[[params.contact.social]]
+			icon = "behance"
+			link = "//www.behance.net/travisneilson"
+
+		[[params.contact.social]]
+			icon = "youtube"
+			link = "//www.youtube.com/DevTipsForDesigners"
 
 		[[params.contact.social]]
 			icon = "linkedin"
-			link = "https://www.linkedin.com/in/mletellier/"
+			link = "//www.linkedin.com/in/travisneilson"
 
 
 	[params.form]
-		title = "Contact me"
+		title = "Let's work together"
 		# Form fields
 		name = "Your Name"
 		email = "Your Email"
